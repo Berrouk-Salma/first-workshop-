@@ -5,7 +5,7 @@ int main(){
   float C;
  
   printf("saiser C  : ");
-  scanf("%d",&C  );
+  scanf("%f",&C  );
   
 if (C < 0)
 {
